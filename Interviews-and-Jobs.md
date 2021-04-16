@@ -12,6 +12,8 @@
 |java-interview|https://github.com/anton-liauchuk/java-interview|
 |Interview-Questions|https://github.com/Widea/Interview-Questions|
 |coding-interview-university|https://github.com/jwasham/coding-interview-university|
+|1on1-questions|https://github.com/VGraupera/1on1-questions|
+|linux-sysadmin-interview-questions|https://github.com/chassing/linux-sysadmin-interview-questions|
 
 | Job  |                          URL                                                                   |
 |----------|---------------------------------------------------------------------------------------------| 
@@ -21,3 +23,8 @@
 |TheRemoteFreelancer|https://github.com/engineerapart/TheRemoteFreelancer|
 |negotiating|https://github.com/planetoftheweb/negotiating|
 |balanced-employee-ip-agreement|https://github.com/github/balanced-employee-ip-agreement|
+|demo_job_descriptions|https://github.com/joelparkerhenderson/demo_job_descriptions|
+|Startup superset|https://github.com/joelparkerhenderson/startup_superset|
+
+
+

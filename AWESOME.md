@@ -22,6 +22,8 @@
 |architect-awesome|https://github.com/xingshaocheng/architect-awesome|
 |awesome-microservices|https://github.com/mfornos/awesome-microservices|
 |awesome-gcp-certifications|https://github.com/sathishvj/awesome-gcp-certifications|
+|awesome-cheatsheet|https://github.com/detailyang/awesome-cheatsheet|
+|awesome-interactive-journalism|https://github.com/wbkd/awesome-interactive-journalism|
 
 | Awesome  |                          URL                                                                   |
 |----------|------------------------------------------------------------------------------------------------| 
@@ -55,6 +57,11 @@
 |awesome|https://github.com/sindresorhus/awesome|
 |awesome-deeplearning-resources|https://github.com/endymecy/awesome-deeplearning-resources|
 |awesome-android-complete-reference|https://github.com/amitshekhariitbhu/awesome-android-complete-reference|
+|awesome-docker|https://github.com/veggiemonk/awesome-docker|
+|awesome-mysql|https://github.com/shlomi-noach/awesome-mysql|
+|awesome-beacon|https://github.com/rabschi/awesome-beacon|
+|awesome-charting|https://github.com/zingchart/awesome-charting|
+|Awesome Recurrent Neural Networks|https://github.com/kjw0612/awesome-rnn|
 
 | Awesome Crypto  |                          URL                                                                   |
 |----------|---------------------------------------------------------------------------------------------| 

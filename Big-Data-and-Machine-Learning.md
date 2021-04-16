@@ -24,3 +24,8 @@
 |tensorflow_tutorials|https://github.com/pkmital/tensorflow_tutorials|
 |TensorFlow-Examples|https://github.com/aymericdamien/TensorFlow-Examples|
 |dive-into-machine-learning|https://github.com/hangtwenty/dive-into-machine-learning|
+|ml-videos|https://github.com/dustinvtran/ml-videos|
+|Machine-Learning-Tutorials|https://github.com/ujjwalkarn/Machine-Learning-Tutorials|
+
+
+

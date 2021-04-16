@@ -24,3 +24,10 @@
 |microservices-v10|https://github.com/microservices-practical/microservices-v10|
 |learn-microservices-w-spring-boot|https://github.com/Apress/learn-microservices-w-spring-boot|
 |microservice-app-example|https://github.com/elgris/microservice-app-example|
+|java-9-microservices-demo|https://github.com/wkorando/java-9-microservices-demo|
+
+
+
+
+
+
