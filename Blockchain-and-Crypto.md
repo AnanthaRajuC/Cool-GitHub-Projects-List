@@ -6,7 +6,7 @@
 |bootcamp-cordapp|https://github.com/corda/bootcamp-cordapp|
 |blockchain-reading-list|https://github.com/reiver/blockchain-reading-list|
 |cointrader|https://github.com/timolson/cointrader|
-|https://github.com/aloysius-pgast/crypto-exchanges-gateway|crypto-exchanges-gateway|
+|crypto-exchanges-gateway|https://github.com/aloysius-pgast/crypto-exchanges-gateway|
 |crypto-scanner|https://github.com/rainner/crypto-scanner|
 |poloticker|https://github.com/hmallen/poloticker|
 |mortgage-blockchain-demo|https://github.com/rajivjc/mortgage-blockchain-demo|
