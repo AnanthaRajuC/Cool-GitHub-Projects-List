@@ -14,6 +14,9 @@
 |frontend-dev-bookmarks|https://github.com/dypsilon/frontend-dev-bookmarks|
 |frontend-nanodegree-resume|https://github.com/udacity/frontend-nanodegree-resume|
 |angular-education|https://github.com/timjacobi/angular-education|
+|dark-mode-switch|https://github.com/coliff/dark-mode-switch|
+|bootstrap-dark|https://github.com/ForEvolve/bootstrap-dark|
+|tailwind-starter-kit|https://github.com/creativetimofficial/tailwind-starter-kit|
 
 
 

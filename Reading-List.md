@@ -38,8 +38,8 @@
 |big-list-of-naughty-strings|https://github.com/minimaxir/big-list-of-naughty-strings|
 |bash-handbook|https://github.com/denysdovhan/bash-handbook|
 |choosealicense.com|https://github.com/github/choosealicense.com|
-
-
+|cheatsheets|https://github.com/rstacruz/cheatsheets|
+|side-project-marketing|https://github.com/portable-cto/side-project-marketing|
 
 
 
