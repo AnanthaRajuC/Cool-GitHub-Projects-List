@@ -22,5 +22,4 @@
 |jekyll-now|https://github.com/barryclark/jekyll-now|
 |freshman21|https://github.com/yulijia/freshman21|
 |jekyll-rss-feeds|https://github.com/snaptortoise/jekyll-rss-feeds|
-|||
-
+|coreui-free-bootstrap-admin-template|https://github.com/coreui/coreui-free-bootstrap-admin-template|

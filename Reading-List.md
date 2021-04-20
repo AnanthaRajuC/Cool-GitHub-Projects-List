@@ -40,6 +40,16 @@
 |choosealicense.com|https://github.com/github/choosealicense.com|
 |cheatsheets|https://github.com/rstacruz/cheatsheets|
 |side-project-marketing|https://github.com/portable-cto/side-project-marketing|
+|distsys-class|https://github.com/aphyr/distsys-class|
+|AcademicContent|https://github.com/microsoft/AcademicContent|
+|WhatTheHack|https://github.com/microsoft/WhatTheHack|
+|hacktoberfest-checker|https://github.com/jenkoian/hacktoberfest-checker|
+|issue_postmortem_template|https://github.com/joelparkerhenderson/issue_postmortem_template|
+|sixarm_project_management_priority_score|https://github.com/SixArm/sixarm_project_management_priority_score|
+|design-manual|https://github.com/redhat-developer/design-manual|
+|hackathon.guide|https://github.com/JoshData/hackathon.guide|
+|build-your-own-x|https://github.com/danistefanovic/build-your-own-x|
+
 
 
 
