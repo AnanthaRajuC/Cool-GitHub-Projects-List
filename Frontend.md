@@ -17,6 +17,13 @@
 |dark-mode-switch|https://github.com/coliff/dark-mode-switch|
 |bootstrap-dark|https://github.com/ForEvolve/bootstrap-dark|
 |tailwind-starter-kit|https://github.com/creativetimofficial/tailwind-starter-kit|
-
-
-
+|a4jd-demo-backend|https://github.com/bertjan/a4jd-demo-backend|
+|web-design-in-4-minutes|https://github.com/jgthms/web-design-in-4-minutes|
+|material-kit|https://github.com/creativetimofficial/material-kit|
+|ES6-for-humans|https://github.com/metagrover/ES6-for-humans|
+|pokedex.org|https://github.com/nolanlawson/pokedex.org|
+|es6|https://github.com/bevacqua/es6|
+|nixos-homepage|https://github.com/NixOS/nixos-homepage|
+|React-For-Beginners-Starter-Files|https://github.com/wesbos/React-For-Beginners-Starter-Files|
+|HashiCorp website|https://github.com/rogeriopradoj/www|
+|Site for Basscss|https://github.com/basscss/basscss.github.io|

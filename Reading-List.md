@@ -49,6 +49,14 @@
 |design-manual|https://github.com/redhat-developer/design-manual|
 |hackathon.guide|https://github.com/JoshData/hackathon.guide|
 |build-your-own-x|https://github.com/danistefanovic/build-your-own-x|
+|style-guide-guide|https://github.com/bradfrost/style-guide-guide|
+|public-pentesting-reports|https://github.com/juliocesarfort/public-pentesting-reports|
+|source-code-policy|https://github.com/WhiteHouse/source-code-policy|
+|10PL|https://github.com/nuprl/10PL|
+|asynchronous-php|https://github.com/elazar/asynchronous-php|
+|WebDevChallenge|https://github.com/jlem/WebDevChallenge|
+
+
 
 
 

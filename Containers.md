@@ -9,7 +9,7 @@
 |kubernetes101|https://github.com/ajeetraina/kubernetes101|
 |kubernetes-ebook|https://github.com/Praqma/kubernetes-ebook|
 |kubernetes-workshops|https://github.com/GoogleCloudPlatform/kubernetes-workshops|
-
+|Kubernetes clusters for the hobbyist|https://github.com/hobby-kube/guide|
 
 
 
