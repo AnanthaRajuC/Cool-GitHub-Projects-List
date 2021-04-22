@@ -64,8 +64,8 @@
 |cw-omnibus|https://github.com/commonsguy/cw-omnibus| 
 |hackcoc|https://github.com/cbetta/hackcoc|
 |learn-regex|https://github.com/ziishaned/learn-regex|
-
-
-
+|fromthetransistor|https://github.com/geohot/fromthetransistor|
+|itsy-bitsy-data-structures|https://github.com/jamiebuilds/itsy-bitsy-data-structures|
+|open-source-ios-apps|https://github.com/dkhamsing/open-source-ios-apps|
 
 

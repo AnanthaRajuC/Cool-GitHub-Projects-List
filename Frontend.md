@@ -31,7 +31,7 @@
 |hackathon-starter|https://github.com/sahat/hackathon-starter|
 |hospitalrun-frontend|https://github.com/HospitalRun/hospitalrun-frontend|
 |handbook|https://github.com/clef/handbook|
-
+|cssicon|https://github.com/wentin/cssicon|
 
 
 

@@ -10,7 +10,7 @@
 |microprofile-samples|https://github.com/eclipse/microprofile-samples|
 |Spring-Framework-Essentials|https://github.com/kousen/Spring-Framework-Essentials|
 |spring-recipes|https://github.com/Apress/spring-recipes|
-|||
+|java_upgrade|https://github.com/kousen/java_upgrade|
 |||
 |||
 |||
