@@ -27,3 +27,11 @@
 |React-For-Beginners-Starter-Files|https://github.com/wesbos/React-For-Beginners-Starter-Files|
 |HashiCorp website|https://github.com/rogeriopradoj/www|
 |Site for Basscss|https://github.com/basscss/basscss.github.io|
+|priority-navigation|https://github.com/gijsroge/priority-navigation|
+|hackathon-starter|https://github.com/sahat/hackathon-starter|
+|hospitalrun-frontend|https://github.com/HospitalRun/hospitalrun-frontend|
+|handbook|https://github.com/clef/handbook|
+
+
+
+

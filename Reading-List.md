@@ -55,10 +55,15 @@
 |10PL|https://github.com/nuprl/10PL|
 |asynchronous-php|https://github.com/elazar/asynchronous-php|
 |WebDevChallenge|https://github.com/jlem/WebDevChallenge|
-
-
-
-
+|Algorithms-Explanation|https://github.com/TheAlgorithms/Algorithms-Explanation| 
+|Competitive-programming-library|https://github.com/AhmadElsagheer/Competitive-programming-library| 
+|Basecamp Employee Handbook|https://github.com/basecamp/handbook| 
+|project-based-learning|https://github.com/tuvtran/project-based-learning| 
+|500lines|https://github.com/aosabook/500lines| 
+|what-happens-when|https://github.com/alex/what-happens-when| 
+|cw-omnibus|https://github.com/commonsguy/cw-omnibus| 
+|hackcoc|https://github.com/cbetta/hackcoc|
+|learn-regex|https://github.com/ziishaned/learn-regex|
 
 
 

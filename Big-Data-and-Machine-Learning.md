@@ -27,3 +27,8 @@
 |ml-videos|https://github.com/dustinvtran/ml-videos|
 |Machine-Learning-Tutorials|https://github.com/ujjwalkarn/Machine-Learning-Tutorials|
 |StartupDataScience|https://github.com/bgweber/StartupDataScience|
+|DeepLearningProject|https://github.com/Spandan-Madan/DeepLearningProject|
+|foundations_for_deep_learning|https://github.com/soumyadsanyal/foundations_for_deep_learning|
+|TopDeepLearning|https://github.com/aymericdamien/TopDeepLearning|
+|Deep learning tutorials|https://github.com/sjchoi86/dl_tutorials|
+

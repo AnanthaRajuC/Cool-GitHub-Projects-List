@@ -44,9 +44,9 @@
 |android-samples|https://github.com/histogram/android-samples|
 |android-kotlin-mvp-architecture|https://github.com/MindorksOpenSource/android-kotlin-mvp-architecture|
 |iosched|https://github.com/google/iosched|
-
-
-
+|AndroidCommon|https://github.com/h4de5ing/AndroidCommon|
+|GithubWidget|https://github.com/Nightonke/GithubWidget|
+|quickblox-android-sdk|https://github.com/QuickBlox/quickblox-android-sdk|
 
 
 
