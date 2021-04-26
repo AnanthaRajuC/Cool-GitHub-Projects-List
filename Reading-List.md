@@ -67,5 +67,32 @@
 |fromthetransistor|https://github.com/geohot/fromthetransistor|
 |itsy-bitsy-data-structures|https://github.com/jamiebuilds/itsy-bitsy-data-structures|
 |open-source-ios-apps|https://github.com/dkhamsing/open-source-ios-apps|
+|useful-java-links|https://github.com/Vedenin/useful-java-links|
+|public-apis|https://github.com/public-apis/public-apis|
+|HEAD|https://github.com/joshbuchea/HEAD|
+|gitignore|https://github.com/github/gitignore|
+|json-api|https://github.com/json-api/json-api|
+|Useful IT Policies|https://github.com/lfit/itpol|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

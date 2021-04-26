@@ -14,3 +14,19 @@
 |stringer|https://github.com/swanson/stringer|
 |gophish|https://github.com/gophish/gophish|
 |Gnip Support|https://github.com/gnip/support|
+|sqlite-viewer|https://github.com/inloop/sqlite-viewer|
+|megaboilerplate|https://github.com/sahat/megaboilerplate|
+|thenewboston-API|https://github.com/buckyroberts/thenewboston-API|
+|structured-text-tools|https://github.com/dbohdan/structured-text-tools|
+|jsonlintdotcom|https://github.com/umbrae/jsonlintdotcom|
+|httpstatuses|https://github.com/rmaake1/httpstatuses|
+|Introduction-to-Autonomous-Robots|https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots|
+
+
+
+
+
+
+
+
+

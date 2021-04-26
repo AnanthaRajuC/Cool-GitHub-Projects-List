@@ -25,8 +25,8 @@
 |coreui-free-bootstrap-admin-template|https://github.com/coreui/coreui-free-bootstrap-admin-template|
 |Millennial|https://github.com/LeNPaul/Millennial|
 |devportfolio|https://github.com/RyanFitzgerald/devportfolio|
-
-
+|blur-admin|https://github.com/akveo/blur-admin|
+|gentelella|https://github.com/ColorlibHQ/gentelella|
 
 
 

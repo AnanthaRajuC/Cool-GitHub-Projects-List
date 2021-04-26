@@ -32,6 +32,13 @@
 |hospitalrun-frontend|https://github.com/HospitalRun/hospitalrun-frontend|
 |handbook|https://github.com/clef/handbook|
 |cssicon|https://github.com/wentin/cssicon|
+|DemoHouse|https://github.com/opt-luo/DemoHouse|
+|JS Bits|https://github.com/vasanthk/js-bits|
+|180 websites in 180 days|https://github.com/jendewalt/jennifer_dewalt|
+|You-Dont-Know-JS|https://github.com/getify/You-Dont-Know-JS|
+
+
+
 
 
 
